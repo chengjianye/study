@@ -100,7 +100,7 @@ module.exports = {
           '/guide/': genSidebarConfig('指南'),
           '/zh/ali/': [{title:'阿里面试题'}],
           '/zh/vue/': [{title: 'Vue知识点', children: [
-            '', 'Es6', 'Es6方法扩展', 'Webpack', 'Babel', 'Promise', 'Vue 各种方法之间的区别', 'Vue组件', 'Vue路由', 'Vue动画', 'vue钩子函数', 'vuex'
+            '', 'Es6', 'Es6方法扩展', 'Webpack', 'Babel', 'Promise', 'Vue 各种方法之间的区别','diff', 'Vue组件', 'Vue路由', 'Vue动画', 'vue钩子函数', 'vuex'
           ]}],
           '/zh/react/': [{title: 'React知识点', children: [
             '', 'JSX', 'MVVM', 'Props', 'React生命周期', 'React组件', 'React路由', 'redux', 'redux中间件', '组件通信', '高阶组件'
